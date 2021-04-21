@@ -2,5 +2,5 @@
 Página pessoal estilo currículo
 
 ##Tarefas
-Atualizaçãoes sendo realizadas no github
+Atualizações sendo realizadas no github
 
